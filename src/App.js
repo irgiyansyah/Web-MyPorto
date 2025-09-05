@@ -109,7 +109,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="bg-black/50 backdrop-blur-md border-t border-gray-700 py-6 text-center text-sm text-gray-400">
-        © 2025 Irgiyansyah AF. All rights reserved.
+        © 2025 Irgiyansyah AF. Jangan Diganggu.
       </footer>
     </div>
   );
